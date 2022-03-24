@@ -41,7 +41,7 @@ Allows you to change the status of cards using a smooth [drag-and-drop](https://
 
 [Community Forums](https://www.syncfusion.com/forums/blazor-components?utm_source=github&utm_medium=listing&utm_campaign=blazor-kanban-github-samples)
 
-[Suggest a feature or report a bug](https://www.syncfusion.com/feedback/blazor-components?control=kanban?utm_source=github&utm_medium=listing&utm_campaign=blazor-kanban-github-samples)
+[Suggest a feature or report a bug](https://www.syncfusion.com/feedback/blazor-components?control=kanban&utm_source=github&utm_medium=listing&utm_campaign=blazor-kanban-github-samples)
 
 ## About Syncfusion Blazor UI Controls
 Syncfusion's [Blazor components](https://www.syncfusion.com/blazor-components?utm_source=github&utm_medium=listing&utm_campaign=blazor-kanban-github-samples) library offers over 70 UI components to work with Blazor server-side and client-side (Blazor WebAssembly) projects seamlessly. In addition to Kanban Board, we provide popular Blazor components such as [DataGrid](https://www.syncfusion.com/blazor-components/blazor-datagrid?utm_source=github&utm_medium=listing&utm_campaign=blazor-kanban-github-samples), [Charts](https://www.syncfusion.com/blazor-components/blazor-charts?utm_source=github&utm_medium=listing&utm_campaign=blazor-kanban-github-samples), [Diagram](https://www.syncfusion.com/blazor-components/blazor-diagram?utm_source=github&utm_medium=listing&utm_campaign=blazor-kanban-github-samples), and [Word Processor](https://www.syncfusion.com/blazor-components/blazor-word-processor?utm_source=github&utm_medium=listing&utm_campaign=blazor-kanban-github-samples).
